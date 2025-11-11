@@ -58,6 +58,14 @@ expensepro-dashboard/
     └── reports-view.png
 
 
+### 🧰 Tech Stack
+HTML5
+CSS3
+JavaScript (ES6 Modules)
+LocalStorage for persistence
+Chart.js (optional, deprecated for clean data tables)
+
+
 
 
 
