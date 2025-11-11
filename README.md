@@ -38,6 +38,7 @@ It offers dynamic category management, persistent data storage, and a sleek anal
 ---
 
 🗂️ Folder Structure
+```text
 expensepro-dashboard/
 ├── index.html
 ├── css/
@@ -55,65 +56,42 @@ expensepro-dashboard/
     ├── expenses-view.png
     └── reports-view.png
 
-🧰 Tech Stack
 
-HTML5
+---
 
-CSS3
+## 🧰 Tech Stack
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6 Modules)**  
+- **LocalStorage** for data persistence  
+- **Chart.js** *(optional, deprecated in favor of table-based reports)*  
 
-JavaScript (ES6 Modules)
+---
 
-LocalStorage for data persistence
+## 🚀 Deployment
 
-Chart.js (optional, deprecated in favor of table-based reports)
+This project is hosted on **[Netlify](https://www.netlify.com/)** for fast and reliable static site deployment.
 
-🚀 Deployment
+### 🌐 Live Demo  
+👉 [ExpensePro Dashboard](https://expensepro-dashboard.netlify.app)
 
-This project is hosted on Netlify
- for fast and reliable static site deployment.
+---
 
-🌐 Live Demo
+### 🛠️ Deployment Steps
+1. Pushed the project to **GitHub**
+2. Logged into **Netlify** and selected **“Add New Site → Import from Git”**
+3. Chose the GitHub repository (**ExpensePro-Dashboard**)
+4. Netlify automatically detected the static site (HTML, CSS, JS)
+5. Clicked **Deploy Site**
+6. Renamed the project via **Settings → Change project name** to `expensepro-dashboard`
 
-👉 ExpensePro Dashboard
+Your project is now live at:  
+➡️ **https://expensepro-dashboard.netlify.app**
 
-🛠️ Deployment Steps
+---
 
-Pushed the project to GitHub
+### 🧾 Notes
+- The site auto-deploys whenever new commits are pushed to the **main branch**  
+- **Free SSL (HTTPS)** and continuous deployment enabled by default  
+- **No backend required** — uses LocalStorage for persistent data
 
-Logged into Netlify and selected “Add New Site → Import from Git”
-
-Chose the GitHub repository (ExpensePro-Dashboard)
-
-Netlify automatically detected the static site (HTML, CSS, JS)
-
-Clicked Deploy Site
-
-Renamed the project via Settings → Change project name to expensepro-dashboard
-
-Your project is now live at:
-➡️ https://expensepro-dashboard.netlify.app
-
-🧾 Notes
-
-The site auto-deploys whenever new commits are pushed to the main branch
-
-Free SSL (HTTPS) and continuous deployment enabled by default
-
-No backend required — uses LocalStorage for persistent data
-
-💡 Features
-
-Dynamic expense addition and deletion
-
-Custom category creation
-
-Persistent data storage via browser LocalStorage
-
-Monthly summary reports (table-based view)
-
-Fully responsive modern dark UI
-
-🧑‍💻 Author
-
-Koushik Yadagiri
-📧 nagakoushikyadagiri1@gmail.com
