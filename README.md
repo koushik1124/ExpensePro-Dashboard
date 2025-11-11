@@ -57,6 +57,8 @@ expensepro-dashboard/
     ├── expenses-view.png
     └── reports-view.png
 
+---
+
 
 🧰 Tech Stack
 HTML5
@@ -73,15 +75,10 @@ This project is hosted on Netlify for fast and reliable static site deployment.
 
 🛠️ Deployment Steps
 Pushed the project to GitHub
-
 Logged into Netlify and selected “Add New Site → Import from Git”
-
 Chose the GitHub repository (ExpensePro-Dashboard)
-
 Netlify automatically detected the static site (HTML, CSS, JS)
-
 Clicked Deploy Site
-
 Renamed the project via Settings → Change project name to expensepro-dashboard
 
 Your project is now live at:
@@ -89,8 +86,6 @@ Your project is now live at:
 
 🧾 Notes
 The site is auto-deployed whenever new commits are pushed to the main branch
-
 Free SSL (HTTPS) and continuous deployment enabled by default
-
 No backend required — uses LocalStorage for persistent data
 
