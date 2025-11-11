@@ -55,8 +55,7 @@ expensepro-dashboard/
     ├── dashboard-view.png
     ├── expenses-view.png
     └── reports-view.png
-
-
+```
 ---
 
 ## 🧰 Tech Stack
