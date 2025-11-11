@@ -37,9 +37,7 @@ It offers dynamic category management, persistent data storage, and a sleek anal
 
 ---
 
-## 🗂️ Folder Structure
-
-```text
+🗂️ Folder Structure
 expensepro-dashboard/
 ├── index.html
 ├── css/
@@ -57,15 +55,65 @@ expensepro-dashboard/
     ├── expenses-view.png
     └── reports-view.png
 
+🧰 Tech Stack
 
-### 🧰 Tech Stack
 HTML5
+
 CSS3
+
 JavaScript (ES6 Modules)
-LocalStorage for persistence
-Chart.js (optional, deprecated for clean data tables)
 
+LocalStorage for data persistence
 
+Chart.js (optional, deprecated in favor of table-based reports)
 
+🚀 Deployment
 
+This project is hosted on Netlify
+ for fast and reliable static site deployment.
 
+🌐 Live Demo
+
+👉 ExpensePro Dashboard
+
+🛠️ Deployment Steps
+
+Pushed the project to GitHub
+
+Logged into Netlify and selected “Add New Site → Import from Git”
+
+Chose the GitHub repository (ExpensePro-Dashboard)
+
+Netlify automatically detected the static site (HTML, CSS, JS)
+
+Clicked Deploy Site
+
+Renamed the project via Settings → Change project name to expensepro-dashboard
+
+Your project is now live at:
+➡️ https://expensepro-dashboard.netlify.app
+
+🧾 Notes
+
+The site auto-deploys whenever new commits are pushed to the main branch
+
+Free SSL (HTTPS) and continuous deployment enabled by default
+
+No backend required — uses LocalStorage for persistent data
+
+💡 Features
+
+Dynamic expense addition and deletion
+
+Custom category creation
+
+Persistent data storage via browser LocalStorage
+
+Monthly summary reports (table-based view)
+
+Fully responsive modern dark UI
+
+🧑‍💻 Author
+
+Koushik Yadagiri
+📧 nagakoushikyadagiri1@gmail.com
