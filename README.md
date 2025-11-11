@@ -53,9 +53,6 @@ expensepro-dashboard/
 ├── expenses-view.png
 └── reports-view.png
 
-yaml
-Copy code
-
 ---
 
 ## 🧰 Tech Stack
