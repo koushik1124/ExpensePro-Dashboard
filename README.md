@@ -38,6 +38,8 @@ It offers dynamic category management, persistent data storage, and a sleek anal
 ---
 
 ## 📁 Folder Structure
+
+
 expensepro-dashboard/
 ├── index.html
 ├── css/
@@ -54,6 +56,7 @@ expensepro-dashboard/
     ├── dashboard-view.png
     ├── expenses-view.png
     └── reports-view.png
+
 
 
 ---
