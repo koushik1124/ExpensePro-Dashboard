@@ -37,21 +37,24 @@ It offers dynamic category management, persistent data storage, and a sleek anal
 
 ---
 
-## 🧱 Folder Structure
+## 📁 Folder Structure
 expensepro-dashboard/
 ├── index.html
-├── css/style.css
+├── css/
+│   └── style.css
 ├── js/
-│ ├── app.js
-│ ├── data.js
-│ ├── dashboard.js
-│ ├── expenses.js
-│ └── reports.js
-├── assets/logo.png
+│   ├── app.js
+│   ├── data.js
+│   ├── dashboard.js
+│   ├── expenses.js
+│   └── reports.js
+├── assets/
+│   └── logo.png
 └── screenshots/
-├── dashboard-view.png
-├── expenses-view.png
-└── reports-view.png
+    ├── dashboard-view.png
+    ├── expenses-view.png
+    └── reports-view.png
+
 
 ---
 
